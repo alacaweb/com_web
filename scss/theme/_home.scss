@@ -1,6 +1,6 @@
 //--------- Start Banner Area -------------//
 .home-banner-area {
-    background: //cdn.jsdelivr.net/gh/alacaweb/com_web/img/home-banner-bg.jpg) center;
+    background: :url(//cdn.jsdelivr.net/gh/alacaweb/com_web/img/home-banner-bg.jpg) center;
     background-size: cover;
     .banner-img {
         text-align: right;
@@ -25,7 +25,7 @@
 }
 
 .banner-area {
-    background: //cdn.jsdelivr.net/gh/alacaweb/com_web/img/banner.jpg) center;
+    background: :url(//cdn.jsdelivr.net/gh/alacaweb/com_web/img/banner.jpg) center;
     background-size: cover;
     .banner-content {
         padding: 162px 0;
@@ -174,7 +174,7 @@
 }
 
 .about-video-right {
-    background: //cdn.jsdelivr.net/gh/alacaweb/com_web/img/video-bg.jpg) no-repeat center;
+    background: :url(//cdn.jsdelivr.net/gh/alacaweb/com_web/img/video-bg.jpg) no-repeat center;
     background-size: cover;
     height: 645px;
     .play-btn {

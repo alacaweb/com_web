@@ -223,7 +223,7 @@
 }
 
 .info-right {
-  background: //cdn.jsdelivr.net/gh/alacaweb/com_web/img/elements/video-bg.png) no-repeat center;
+  background: :url(//cdn.jsdelivr.net/gh/alacaweb/com_web/img/elements/video-bg.png) no-repeat center;
   background-size: cover;
   height: 251px;
 }
@@ -340,7 +340,7 @@
 }
 
 .about-feature-area {
-  background: //cdn.jsdelivr.net/gh/alacaweb/com_web/img/elements/feature-bg.jpg) center;
+  background: :url(//cdn.jsdelivr.net/gh/alacaweb/com_web/img/elements/feature-bg.jpg) center;
   background-size: cover;
 }
 
