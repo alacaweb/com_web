@@ -1862,7 +1862,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff; }
 
 .home-banner-area {
-  background: url(//cdn.jsdelivr.net/gh/alacaweb/com_web/img/home-banner-bg.jpg) center;
+  background: url(//cdn.jsdelivr.net/gh/alacaweb/com_web/img/home-banner-bg.png) center;
   background-size: cover; }
   .home-banner-area .banner-img {
     text-align: right; }
